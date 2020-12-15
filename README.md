@@ -5,6 +5,17 @@ This tool for hack instagram account and facebook account
 
 happy day baby .
 
+# use the tool :
+```
+1- termux-setup-storage 
+Y/n Enter Y
+
+2- pkg install python -y
+3- pkg install git -y
+4- pip install bs4
+5- pip install requests
+
+```
 
 
 # contact with me :
